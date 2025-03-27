@@ -1,5 +1,5 @@
 [project]
-name = "Uniswap PoolSpy MCP Server"
+name = "uniswap-poolspy-mcp"
 version = "0.1.0"
 description = "An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks"
 readme = "README.md"
